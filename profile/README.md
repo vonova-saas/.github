@@ -1,20 +1,11 @@
-<h1 align="center">
-  🚀 Vonova
-</h1>
-
-<p align="center">
-  <em>Empowering the next generation of software engineers with AI-powered, personalized learning.</em>
-</p>
-
 <p align="center">
   <img src="../img/github_organization.png" alt="Vonova Logo" width="100%" />
 </p>
 
----
-
-## 🌟 Our Mission
-
-> **To deliver a next-generation learning platform that leverages AI, personalization, and real-world challenges to simplify and accelerate the journey of becoming a high-quality software engineer.**
+<p>
+  Vonova
+  Empowering the next generation of software engineers with AI-powered, personalized learning.
+</p>
 
 ---
 
@@ -34,6 +25,12 @@ We solve problems like:
 ✅ Weak practical application and feedback  
 
 By combining AI roadmaps, custom video generation, adaptive coding challenges, and a vibrant community.
+
+---
+
+## 🌟 Our Mission
+
+> **To deliver a next-generation learning platform that leverages AI, personalization, and real-world challenges to simplify and accelerate the journey of becoming a high-quality software engineer.**
 
 ---
 
@@ -109,7 +106,7 @@ We're open to:
 ## 💌 Contact
 
 📧 Email: vonovacompany@gmail.com  
-🌐 Website: vonova.tech  
+🌐 Website: [vonova.tech](https://vonova.tech)  
 
 ---
 
