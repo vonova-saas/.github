@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/your-logo.png" alt="Vonova Logo" width="200" />
+  <img src="../img/github_organization.png" alt="Vonova Logo" width="200" />
 </p>
 
 ---
