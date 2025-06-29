@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="../img/github_organization.png" alt="Vonova Logo" width="200" />
+  <img src="../img/github_organization.png" alt="Vonova Logo" width="100%" />
 </p>
 
 ---
